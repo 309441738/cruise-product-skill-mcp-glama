@@ -1,0 +1,8 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": [
+    "309441738"
+  ],
+  "name": "cruise-product-skill",
+  "description": "通过技能获取邮轮产品信息，轻松掌握邮轮详情。"
+}
